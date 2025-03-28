@@ -1,0 +1,33 @@
+# Ignore all .pt files (PyTorch model weights)
+**/*.pt
+
+# Ignore all .mp4 files (video files)
+**/*.mp4
+**/*.avi
+**/*.zip
+
+# Ignore general unwanted files (MacOS, Windows, Python, and IDE-specific)
+# MacOS
+.DS_Store
+
+**/*.lnk
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Python
+*.pyc
+*.pyo
+__pycache__/
+*.log
+
+# Virtual environment
+venv/
+.env/
+
+# IDE-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
