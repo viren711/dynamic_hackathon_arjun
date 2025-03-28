@@ -11,7 +11,7 @@
 ## Introduction
 This project is designed for collision avoidance in multi-crane environments. The system utilizes machine learning models to detect and track persons near crane jibs to prevent accidents. The implementation includes dataset creation, training models, and a GUI-based simulation for real-time detection and tracking.
 
-The model trained for person detection is **YOLOv8**, achieving an accuracy of **96%**.
+The model trained is **YOLOv8**, achieving an accuracy of **96%**.
 
 ---
 
