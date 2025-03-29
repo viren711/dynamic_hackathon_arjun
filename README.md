@@ -64,5 +64,5 @@ python prototype_video_gui.py
 
 ---
 
-**Developed for Dynamic Hackathon 2025 - Team Arjun (348).**
+**Developed for Dynamic Hackathon 2025 by Team Arjun (348).**
 
