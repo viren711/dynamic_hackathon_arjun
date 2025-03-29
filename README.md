@@ -51,8 +51,8 @@ python prototype_video_gui.py
 ---
 
 ## Project Resources
-- **PPT:** [View Here](https://www.canva.com/design/DAGjBGAn_ss/X1OP0bGxM52L416oz4S4oQ/view?utm_content=DAGjBGAn_ss&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h375fd960d0)
-- **Demo Video:** [Watch Here](https://drive.google.com/file/d/11FQ1WlRcj393wSuRQmiy7qxx5q53nKSM/view?usp=sharing)
+- **PPT:** [View Here](https://teamarjun.my.canva.site/)
+- **Demo Video:** [Watch Here](https://drive.google.com/file/d/1iwivUbyUCCVZnp-K-Nn1iFfwkaStvSFl/view?usp=sharing)
 
 ---
 
